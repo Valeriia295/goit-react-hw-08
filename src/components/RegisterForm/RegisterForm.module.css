@@ -17,9 +17,10 @@
 .title {
   color: rgb(20, 19, 37);
   font-family: oswald;
-  font-size: 40px;
+  font-size: 34px;
   text-align: center;
   font-weight: 700;
+  text-align: center;
   margin: 15px auto 30px auto;
 }
 
