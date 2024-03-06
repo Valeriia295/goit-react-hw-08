@@ -1,0 +1,33 @@
+.title {
+  text-align: center;
+  margin-top: 195px;
+  margin-bottom: 10px;
+  font-weight: 700;
+  font-size: 70px;
+  font-family: oswald;
+  text-shadow: -15px 5px 20px #ced0d3;
+  top: 50%;
+  left: 50%;
+  color: #ffffff;
+  text-shadow: 5px 5px 0px #1c3860, 8px 8px 0px #325fa2, 11px 11px 0px #639ce2,
+    14px 14px 0px #132c4c;
+}
+
+.text {
+  color: rgb(255, 255, 255);
+  text-shadow: 5px 5px 7px rgb(0, 0, 0);
+  font-family: oswald;
+  font-size: 34px;
+  font-weight: 500;
+  text-transform: uppercase;
+  line-height: 1;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
+.span {
+  composes: text;
+  font-style: italic;
+  margin-left: 5px;
+}

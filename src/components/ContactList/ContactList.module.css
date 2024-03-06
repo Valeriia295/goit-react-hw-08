@@ -1,0 +1,24 @@
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  list-style-type: none;
+  margin-bottom: 40px;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  width: 350px;
+}
+
+.text {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  color: rgb(20, 19, 37);
+  font-family: oswald;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1;
+  text-align: center;
+}

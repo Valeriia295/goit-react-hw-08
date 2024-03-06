@@ -1,0 +1,38 @@
+.wrapper {
+  width: 290px;
+}
+
+.text {
+  padding: 0;
+  margin: 0;
+  color: rgb(20, 19, 37);
+  font-family: oswald;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 1;
+}
+
+.button {
+  font-family: oswald;
+  font-size: 14px;
+  background-color: #ffffff;
+  color: rgb(20, 19, 37);
+  border: none;
+  border-radius: 8px;
+  width: 100px;
+  height: 40px;
+  transition: 0.3s;
+  margin-left: auto;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #3c64a3;
+  box-shadow: 0 0 0 3px #94bdff5f;
+  color: #ffffff;
+}
+
+.icon {
+  margin-right: 5px;
+}
